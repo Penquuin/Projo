@@ -1,0 +1,1 @@
+#define addfive(x) *x = *x + 5

@@ -1,0 +1,6 @@
+#executables
+*.exe
+*.out
+
+#directories
+build
